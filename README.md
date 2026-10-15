@@ -2,11 +2,6 @@
 
 ### Explainable Deep Clustering for Time Series Data — CMPE 255 Short Story
 
-**Student:** Shanila Nehlin  
-**Course:** CMPE 255 — Data Mining, Fall 2026  
-**Assignment:** Individual Short Story / Research Survey Presentation  
-**Main paper:** Schlegel, U., Tavares, G. M., & Seidl, T. (2025), *Towards Explainable Deep Clustering for Time Series Data*  
-**arXiv:** https://arxiv.org/abs/2507.20840
 
 ## Project overview
 
@@ -25,12 +20,10 @@ The review connects the 2025 Schlegel et al. survey to foundational and experime
 
 ## Publication and presentation links
 
-> **Complete these links after publishing.** Do not submit placeholder URLs as finished deliverables.
 
 - **Medium article:** `ADD_MEDIUM_ARTICLE_URL`
 - **SlideShare presentation:** `ADD_SLIDESHARE_PRESENTATION_URL`
 - **Recorded 10–15-minute video:** `ADD_VIDEO_URL_OR_LINK_TO_RECORDING_IN_THIS_REPOSITORY`
-- **GitHub repository submission URL:** `ADD_PUBLIC_GITHUB_REPOSITORY_URL`
 
 ## Repository structure
 
@@ -89,6 +82,10 @@ All four figures in `figures/` are **new explanatory graphics**, prepared for th
 9. El Amouri, H., et al. (2023). *Constrained DTW Preserving Shapelets for Explainable Time-Series Clustering*. Pattern Recognition. https://doi.org/10.1016/j.patcog.2023.109804
 10. Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). *Why Should I Trust You? Explaining the Predictions of Any Classifier*. KDD. https://doi.org/10.1145/2939672.2939778
 
-## Notes on academic use
 
-The primary 2025 paper is a **survey**, so numerical charts in the presentation cite the *original experimental studies* rather than attributing new results to the survey authors. Adapt the commentary to accurately represent your own reading and analysis, and follow the course rules about student-authored submissions.
+
+**Student:** Shanila Nehlin  
+**Course:** CMPE 255 — Data Mining, Fall 2026  
+**Assignment:** Individual Short Story / Research Survey Presentation  
+**Main paper:** Schlegel, U., Tavares, G. M., & Seidl, T. (2025), *Towards Explainable Deep Clustering for Time Series Data*  
+**arXiv:** https://arxiv.org/abs/2507.20840
