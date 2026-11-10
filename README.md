@@ -20,10 +20,8 @@ The primary research paper is *Towards Explainable Deep Clustering for Time Seri
 | Deliverable | Link |
 |---|---|
 | Medium Article | [When AI Groups Time Series, Can It Explain Why?](https://medium.com/@nehlinshanila/when-ai-groups-time-series-can-it-explain-why-b1ed1d23a4c6) |
-| SlideShare Presentation | Add SlideShare URL |
-| PowerPoint Presentation | `slides/CMPE255_Explainable_Deep_Clustering.pptx` |
-| PDF Presentation | `slides/CMPE255_Explainable_Deep_Clustering.pdf` |
-| Video Presentation (10–15 minutes) | Add recording to `video/` |
+| PowerPoint Presentation | (https://github.com/nehlinshanila/SHORT-STORY-ASSIGNMENT---CMPE-255/blob/master/CMPE255_Presentation.pptx) |
+| Video Presentation (10–15 minutes) | (https://youtu.be/PvW0Em6Yzk8) |
 
 ## Key Topics Covered
 
